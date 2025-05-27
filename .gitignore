@@ -1,0 +1,6 @@
+# Distribution
+dist/
+
+# User files
+app/
+public/
